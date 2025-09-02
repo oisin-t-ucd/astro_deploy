@@ -12,6 +12,7 @@ Description of the project and its primary features.
 - ##### Feature 2:
     Description of feature 2
 
+(...continue for additional features)
 ## Technologies used
 
 #### Languages & Frameworks
