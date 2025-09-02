@@ -14,5 +14,6 @@
     "@astrojs/rss": "^4.0.11",
     "astro": "^5.1.7",
     "preact": "^10.25.4"
-  }
+  },
+  "packageManager": "pnpm@8.0.0"
 }
