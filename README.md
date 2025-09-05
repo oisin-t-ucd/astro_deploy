@@ -13,6 +13,8 @@ Description of the project and its primary features.
     Description of feature 2
 
 (...continue for additional features)
+
+
 ## Technologies used
 
 #### Languages & Frameworks
@@ -38,3 +40,11 @@ Description of the project and its primary features.
 
 - Follow the guide [here](https://docs.github.com/en/pages/quickstart) to set up Github Pages
 - Follow the guide [here](https://docs.astro.build/en/guides/deploy/github/) to deploy the repository
+
+
+#### Development Process:
+
+
+#### Credits/Acknowledgements:
+
+- [Lightbox tutorial](URL)
